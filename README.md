@@ -1,1 +1,1 @@
-# YouTubePreroll
+# YouTubePreroll This DOES NOT get rid of preroll ads on youtube however it does offer you official files obtained from YouTube via developer tools in Chrome regarding their midroll & preproll ads. I hope this can be of use to anyone who may have the ability to use these files to block YouTube ads via RegEx & possibly to the PiHole & NXFilter Projects.
